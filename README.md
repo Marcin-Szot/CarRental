@@ -1,2 +1,2 @@
-# CarRental
-Rails application helpful in car rental company managing.
+# CarRental [RoR]
+Rails application with simple authentication dedicated for car rental company.
